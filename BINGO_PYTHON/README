@@ -1,0 +1,14 @@
+11 February 2016
+By Ivan Debono
+
+A Python wrapper for Dhiraj Kumar Hazra's BINGO (http://www.physics.iitm.ac.in/~sriram/bingo/bingo.html)
+
+Replace these two files with the ones provided here:
+    driver.f90
+    bgrnd.f90
+
+
+Add this parameter to fnlparams.ini:
+    output_dir= 'plots'
+
+Replace 'plots' if you wish to use another output folder.
